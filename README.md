@@ -8,22 +8,25 @@ Welcome to the official repository for my Machine Learning internship with **ELi
 
 ## 📁 Project Structure
 
+```
 Elite-Tech-Internship/
-│
+|
 ├── Task-1_Decision-Tree/
-│ └── decision_tree_model.ipynb
-│
+│   └── decision_tree_model.ipynb
+|
 ├── Task-2_Sentiment-Analysis/
-│ └── sentiment_analysis_tfidf_logistic.ipynb
-│
+│   └── sentiment_analysis_tfidf_logistic.ipynb
+|
 ├── Task-3_Image-Classification/
-│ ├── image_classification_cnn.ipynb
-│ └── model_data/ # Optional: image dataset or test set
-│
+│   ├── image_classification_cnn.ipynb
+│   └── model_data/           # Optional: image dataset or test set
+|
 ├── Task-4_Recommendation-System/
-│ └── recommendation_system.ipynb
-│
+│   └── recommendation_system.ipynb
+|
 └── README.md
+```
+
 ---
 
 ## ✅ Tasks Overview
@@ -89,5 +92,3 @@ Thanks to **ELiteTEch** for this opportunity.
 
 ---
 
-
-<pre> Elite-Tech-Internship/ ├── Task-1_Decision-Tree/ │ ├── decision_tree_model.ipynb # Decision tree classifier notebook │ └── dataset.csv # (Optional) Dataset used │ ├── Task-2_Sentiment-Analysis/ │ ├── sentiment_analysis.ipynb # Sentiment analysis using TF-IDF & Logistic Regression │ ├── reviews.csv # (Optional) Customer review dataset │ ├── Task-3_Image-Classification/ │ ├── image_classification_cnn.ipynb # CNN model for image classification │ ├── model_data/ # (Optional) Folder containing image dataset │ └── model_weights.h5 # (Optional) Trained model weights │ ├── Task-4_Recommendation-System/ │ ├── recommendation_system.ipynb # Recommendation system using collaborative filtering │ ├── user_ratings.csv # (Optional) Ratings dataset │ ├── requirements.txt # List of required Python libraries ├── LICENSE # Project license (e.g., MIT) └── README.md # Project overview and documentation </pre>
